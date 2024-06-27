@@ -1,0 +1,13 @@
+Data	E:/OneDrive/3544bg/OneDrive - BP/Dissertation/WeatherToSimulate
+TempOut	E:/OneDrive/3544bg/OneDrive - BP/Dissertation/SimulatedWeather
+StartDate	2025-01-01
+EndDate	2050-01-01
+NoSims	50
+NoDecimals	2
+AutoBlocks	3
+Threaded	FALSE
+MaxThreads	5
+MoveAtEnd	FALSE
+MoveTo	c:/
+StartIndex	1
+end
